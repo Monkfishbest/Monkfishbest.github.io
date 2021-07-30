@@ -1,0 +1,13 @@
+
+#head {
+    grid: (auto auto);
+    background-color: chartreuse;
+}
+
+#head  section {
+    grid: 
+}
+
+#head  nav {
+    flex:(row);
+}
